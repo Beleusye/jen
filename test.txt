@@ -1,2 +1,3 @@
 #! /bin/bash
-mkdir /test
+rm -rf /test1
+mkdir /test1
